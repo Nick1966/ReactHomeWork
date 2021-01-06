@@ -14,7 +14,7 @@ export default class Header extends Component {
     render() {
         return (
             <>
-                <Navbar  collapseOnSelect expand="md" bg="dark" variant="dark">
+                <Navbar collapseOnSelect expand="md" bg="dark" variant="dark">
                     <Container>
                         <NavbarBrand href="/">
                             <img
@@ -22,8 +22,8 @@ export default class Header extends Component {
                                 height="30"
                                 width="30"
                                 className="d-inline-block align-top"
-                                alt="Logo"
-                            /> React Site
+                                alt="Logo"/>
+                            React Site
                         </NavbarBrand>
                         <NavbarToggle aria-controls="responsive-navbar-nav"/>
                         <NavbarCollapse id="responsive-navbar-nav">
@@ -37,8 +37,7 @@ export default class Header extends Component {
                                 <FormControl
                                     type="text"
                                     placeholder="Search"
-                                    className="mr-cm-2"
-                                />
+                                    className="mr-cm-2"/>
                                 <Button variant="outline-info">Search</Button>
                             </Form>
                         </NavbarCollapse>
