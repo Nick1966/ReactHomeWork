@@ -3,10 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="b6ea798a-81c5-4d33-a9ef-6d2bdcc11eb7" name="Default Changelist" comment="Initialize project using Create React App">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/CarouselBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/CarouselBox.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Pages/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/Blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/Blog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/Contacts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/photo1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/photo1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/photo2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/photo2.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +73,16 @@
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="npm start" type="js.build_tools.npm">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -79,6 +93,11 @@
       <envs />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -93,6 +112,9 @@
       <workItem from="1609797631970" duration="8822000" />
       <workItem from="1609878540429" duration="1674000" />
       <workItem from="1609892438896" duration="6272000" />
+      <workItem from="1609899536852" duration="4511000" />
+      <workItem from="1609996580698" duration="674000" />
+      <workItem from="1610053880586" duration="15358000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize project using Create React App">
       <created>1609807367408</created>
@@ -129,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609821598563</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Initialize project using Create React App">
+      <created>1609899591096</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609899591096</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

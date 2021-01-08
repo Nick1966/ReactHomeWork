@@ -16,7 +16,7 @@ export default class CarouselBox extends Component {
                     />
                     <Carousel.Caption>
                         <h3>Rose</h3>
-                        <p>Какая красивая роза у нас на виду!!!</p>
+                        <p>Какой красивый у нас вид</p>
                     </Carousel.Caption>
                 </CarouselItem>
                 <CarouselItem>
@@ -27,7 +27,7 @@ export default class CarouselBox extends Component {
                     />
                     <Carousel.Caption>
                         <h3>Food</h3>
-                        <p>Какая красивая еда у нас на виду!!!</p>
+                        <p>Какой красивый у нас вид</p>
                     </Carousel.Caption>
                 </CarouselItem>
                 <CarouselItem>
@@ -38,7 +38,7 @@ export default class CarouselBox extends Component {
                     />
                     <Carousel.Caption>
                         <h3>Rose</h3>
-                        <p>Какая красивая роза у нас на виду!!!</p>
+                        <p>Какой красивый у нас вид</p>
                     </Carousel.Caption>
                 </CarouselItem>
             </Carousel>

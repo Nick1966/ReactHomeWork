@@ -36,7 +36,9 @@ export default class About extends Component {
                                 <TabPane eventKey="second">
                                     <img
                                         src="https://miro.medium.com/max/2560/1*ANqMvMGPBzbU2dIxWP9HcQ.png"/>
-                                    <p>Marry Christmas and working in best days in Sacramento</p>
+                                    <p>Your claim has expired and benefits are no longer payable on this claim for weeks
+                                        ending after 12/31/2020. If you are still unemployed or partially unemployed,
+                                        you must reapply for unemployment benefits.</p>
                                     <p>Marry Christmas and working in best days in Sacramento</p>
                                 </TabPane>
                                 <TabPane eventKey="third">
@@ -47,8 +49,11 @@ export default class About extends Component {
                                 <TabPane eventKey="fourth">
                                     <img
                                         src="https://miro.medium.com/max/5200/1*x1kRbzq47VhGQBfE12u5pg.png"/>
-                                    <p>Marry Christmas and working in best days in Sacramento</p>
-                                    <p>Marry Christmas and working in best days in Sacramento</p>
+                                    <p>If you are receiving Pandemic Unemployment Assistance benefits, do not submit a
+                                        new application. You won’t be able to certify for weeks of unemployment after
+                                        12/26/2020 until we update our system based on the new federal legislation. You
+                                        will receive a message here once you have weeks available to certify.</p>
+
                                 </TabPane>
                                 <TabPane eventKey="fifth">
                                     <img
