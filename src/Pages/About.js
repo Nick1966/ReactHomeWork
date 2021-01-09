@@ -53,7 +53,6 @@ export default class About extends Component {
                                         new application. You won’t be able to certify for weeks of unemployment after
                                         12/26/2020 until we update our system based on the new federal legislation. You
                                         will receive a message here once you have weeks available to certify.</p>
-
                                 </TabPane>
                                 <TabPane eventKey="fifth">
                                     <img
