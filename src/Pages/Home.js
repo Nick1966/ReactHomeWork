@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import CarouselBox from "../Components/CarouselBox";
 import {CardDeck, CardImg, Container, Card, Button} from "react-bootstrap";
-//import Carousel from "react-bootstrap/Carousel";
 
 export default class Home extends Component {
     render() {

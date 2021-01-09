@@ -3,9 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="b6ea798a-81c5-4d33-a9ef-6d2bdcc11eb7" name="Default Changelist" comment="Initialize project using Create React App">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/react-lesson1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/react-js-beginer.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/CarouselBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/CarouselBox.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pages/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/Blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/Blog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/Home.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +112,11 @@
       <workItem from="1609899536852" duration="4511000" />
       <workItem from="1609996580698" duration="674000" />
       <workItem from="1610053880586" duration="16637000" />
-      <workItem from="1610130758836" duration="6316000" />
+      <workItem from="1610130758836" duration="6433000" />
+      <workItem from="1610159774569" duration="1538000" />
+      <workItem from="1610165406619" duration="500000" />
+      <workItem from="1610169981988" duration="28000" />
+      <workItem from="1610178679052" duration="497000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize project using Create React App">
       <created>1609807367408</created>
@@ -161,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610090091728</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Initialize project using Create React App">
+      <created>1610154137659</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610154137659</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

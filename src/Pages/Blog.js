@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import CarouselBox from "../Components/CarouselBox";
 import {Container, Col, Row, Media, Card, ListGroup, ListGroupItem,} from "react-bootstrap";
 
 export default class Blog extends Component {
