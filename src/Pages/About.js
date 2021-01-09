@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 import {Col, Container, Nav, NavItem, TabContainer, NavLink, Row, TabContent, TabPane} from "react-bootstrap";
-
 export default class About extends Component {
     render() {
         return (

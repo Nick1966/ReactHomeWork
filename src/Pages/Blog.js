@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 import {Container, Col, Row, Media, Card, ListGroup, ListGroupItem,} from "react-bootstrap";
-
 export default class Blog extends Component {
     render() {
         return (

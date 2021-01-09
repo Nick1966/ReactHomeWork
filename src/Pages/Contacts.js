@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 import {Button, Container, Form, FormCheck, FormControl, FormGroup, FormLabel, FormText} from "react-bootstrap";
-
 export default class Contacts extends Component {
     render() {
         return (

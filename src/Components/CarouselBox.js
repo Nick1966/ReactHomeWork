@@ -3,7 +3,6 @@ import Carousel from 'react-bootstrap/Carousel'
 import {CarouselItem} from "react-bootstrap";
 import photoImg from '../assets/photo1.jpg';
 import dphotoImg from '../assets/photo2.jpg';
-
 export default class CarouselBox extends Component {
     render() {
         return (
